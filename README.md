@@ -1,3 +1,5 @@
+Daily Project emphasizing the use of props, state and children components in React. Ran into some challenges structuring the components so that the input text was rendered to an adjacent component. Worked through a couple of different layouts and finally got the input values to render appropriately. Still need to apply styling, and furthermore exploring ways to incorporate SASS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
